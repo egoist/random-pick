@@ -35,9 +35,9 @@ pick(document.querySelectorAll('.item'), 2)
 
 ## API
 
-### randomPick(array[, count])
+### randomPick(input[, count])
 
-#### array
+#### input
 
 Type: `array` `string` `object`
 
