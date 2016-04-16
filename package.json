@@ -1,6 +1,6 @@
 {
   "name": "random-pick",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Pick random unique items from an array.",
   "license": "MIT",
   "repository": "egoist/random-pick",
